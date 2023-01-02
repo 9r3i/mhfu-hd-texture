@@ -15,7 +15,7 @@ HD Texture for Monster Hunter Freedom Unite
 ### Views
 [![9r3i Visitors](https://9r3i.web.id/api/views/?user=9r3i-mhfu&color=51,119,187&register=github.com/9r3i/views/tree/master)](https://github.com/9r3i) 
 |---|
-| Since 23-01-02 |
+| Since January 2nd 2023 |
 
 # Closing
 That's all there is to it. Alhamdulillaah...
